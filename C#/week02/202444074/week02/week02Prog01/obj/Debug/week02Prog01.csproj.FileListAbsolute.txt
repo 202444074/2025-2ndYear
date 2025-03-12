@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\bin\Debug\week02Prog01.exe.config
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\bin\Debug\week02Prog01.exe
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\bin\Debug\week02Prog01.pdb
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.Properties.Resources.resources
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.exe
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.pdb
+C:\Users\PC\Desktop\202444074\week02\week02Prog01\obj\Debug\week02Prog01.FormMain.resources
